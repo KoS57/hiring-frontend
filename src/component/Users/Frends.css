@@ -1,0 +1,23 @@
+.online{
+    width: 100px; 
+height: 25px;
+background: #0ce994;
+border-radius: 25px;
+display: flex;
+align-items: center;
+justify-content: center ;
+margin-left: calc(20px + (80 - 20) * ((100vw - 320px) / (1200 - 320)));
+}
+.upcoming{
+    width: 100px; 
+    height: 25px;
+    background: #d3e90c;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+    margin-left: calc(20px + (80 - 20) * ((100vw - 320px) / (1200 - 320)));
+}
+.block-state{
+    padding-top:none;
+}
